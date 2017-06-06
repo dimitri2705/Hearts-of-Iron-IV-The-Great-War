@@ -31,7 +31,7 @@
  anti_air_building_desc:0 "Ces constructions permettent de se protéger contre l'attaque des bombardiers ennemis, et de riposter aux attaques aériennes."
  synthetic_refinery:0 "Raffinerie Synthétique"
  synthetic_refinery_plural:0 "Raffineries Synthétiques"
- #synthetic_refinery_desc:0 "This building provides the state with +1 £resources_strip|3 and +2 £resources_strip|1."
+ #synthetic_refinery_desc:0 "Ce batiment ajoute a la province +1 £resources_strip|3 et +2 £resources_strip|1."
  synthetic_refinery_desc:0 "This building provides the state with"
  synthetic_refinery_amount:0 "$VALUE|Y0=$"
  synthetic_refinery_resource:0 "£resources_strip|$FRAME$"
